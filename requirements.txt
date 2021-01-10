@@ -1,0 +1,3 @@
+## Requirements for audiobook ab.py
+pyttsx3
+PyPDF2
