@@ -10,3 +10,5 @@ Run the efollowing block to pip install the requirements
 
 2. In the same directory as ab.py, run `ab.py -i <pdf name> -p <starting page>`
 
+## Improvements
+Bettre word extraction from various pdfs
